@@ -1,16 +1,17 @@
 <script setup>
 import { ref } from "vue";
 import { LeeButton } from "lee-vue3-components";
+
 const count = ref(1)
 
-function addCount(){
+function addCount() {
   count.value++
 }
 </script>
 
 <template>
   <div>
-    <h3>{{ count }}</h3>
-    <LeeButton @click="addCount">biubiu</LeeButton>
+    <p>{{ count }}</p>
+    <LeeButton @click="addCount">点击+1</LeeButton>
   </div>
 </template>
