@@ -60,3 +60,9 @@
 | ghost    | `boolean`                                                    | `false`     | 按钮是否显示幽灵态       |
 | loading  | `boolean`                                                    | `false`     | 按钮是否显示loading图标 |
 | onClick  | `(e: MouseEvent) => void`                                                    | `undefined` | 按钮点击回调函数        |
+
+
+#### Alert Slots
+| 名称      | 参数 | 说明    |
+|---------|----|-------|
+| default | () | 按钮的内容 |
