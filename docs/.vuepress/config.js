@@ -9,10 +9,14 @@ export default defineUserConfig({
   description: '',
   theme: defaultTheme({
     colorModeSwitch: false,
+    themePlugins: {
+      backToTop: false
+    },
     sidebar: [
       '/',
       '/button/',
-      '/alert/'
+      '/alert/',
+      '/backTop/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],
