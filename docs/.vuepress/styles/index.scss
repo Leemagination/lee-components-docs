@@ -6,3 +6,12 @@ th {
   font-weight: 400;
   font-size: 16px;
 }
+
+
+.theme-default-content a:not(.header-anchor) {
+  text-decoration: none;
+}
+
+.theme-default-content a[href*="://"]:not(.no-external-link-icon)::after {
+  display: none !important;
+}

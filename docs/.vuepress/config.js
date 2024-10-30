@@ -16,7 +16,8 @@ export default defineUserConfig({
       '/',
       '/button/',
       '/alert/',
-      '/backTop/'
+      '/backTop/',
+      '/breadcrumb/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],
