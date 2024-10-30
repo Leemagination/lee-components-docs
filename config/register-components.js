@@ -11,6 +11,7 @@ import ButtonDemo1 from "../docs/button/ButtonDemo1.vue"
 import ButtonDemo2 from "../docs/button/ButtonDemo2.vue"
 import ButtonDemo3 from "../docs/button/ButtonDemo3.vue"
 import ButtonDemo4 from "../docs/button/ButtonDemo4.vue"
+import CalenderDemo1 from "../docs/calender/CalenderDemo1.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -26,4 +27,5 @@ export default function registerComponents(app){
   app.component('ButtonDemo2',ButtonDemo2)
   app.component('ButtonDemo3',ButtonDemo3)
   app.component('ButtonDemo4',ButtonDemo4)
+  app.component('CalenderDemo1',CalenderDemo1)
 }
