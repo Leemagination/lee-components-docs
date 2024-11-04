@@ -12,6 +12,11 @@ import ButtonDemo2 from "../docs/button/ButtonDemo2.vue"
 import ButtonDemo3 from "../docs/button/ButtonDemo3.vue"
 import ButtonDemo4 from "../docs/button/ButtonDemo4.vue"
 import CalenderDemo1 from "../docs/calender/CalenderDemo1.vue"
+import CardDemo1 from "../docs/card/CardDemo1.vue"
+import CardDemo2 from "../docs/card/CardDemo2.vue"
+import CardDemo3 from "../docs/card/CardDemo3.vue"
+import CascaderDemo1 from "../docs/cascader/CascaderDemo1.vue"
+import CascaderDemo2 from "../docs/cascader/CascaderDemo2.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -28,4 +33,9 @@ export default function registerComponents(app){
   app.component('ButtonDemo3',ButtonDemo3)
   app.component('ButtonDemo4',ButtonDemo4)
   app.component('CalenderDemo1',CalenderDemo1)
+  app.component('CardDemo1',CardDemo1)
+  app.component('CardDemo2',CardDemo2)
+  app.component('CardDemo3',CardDemo3)
+  app.component('CascaderDemo1',CascaderDemo1)
+  app.component('CascaderDemo2',CascaderDemo2)
 }

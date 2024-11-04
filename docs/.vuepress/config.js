@@ -18,7 +18,9 @@ export default defineUserConfig({
       '/alert/',
       '/backTop/',
       '/breadcrumb/',
-      '/calender/'
+      '/calender/',
+      '/card/',
+      '/cascader/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],
