@@ -42,7 +42,3 @@ const cascaderValue = ref(null)
     <LeeCascader placeholder="请选择一个值" :options="options" v-model:value="cascaderValue"></LeeCascader>
   </div>
 </template>
-
-<style scoped>
-
-</style>

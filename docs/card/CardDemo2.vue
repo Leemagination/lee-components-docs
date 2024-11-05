@@ -13,7 +13,3 @@ import { LeeCard } from "lee-vue3-components";
     </LeeCard>
   </div>
 </template>
-
-<style scoped>
-
-</style>

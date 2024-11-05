@@ -20,7 +20,9 @@ export default defineUserConfig({
       '/breadcrumb/',
       '/calender/',
       '/card/',
-      '/cascader/'
+      '/cascader/',
+      '/checkbox/',
+      '/collapse/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],

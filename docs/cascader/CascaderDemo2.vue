@@ -45,7 +45,3 @@ const cascaderValue2 = ref('key-3-3-3')
     <LeeCascader show-path disabled :options="options" v-model:value="cascaderValue2"></LeeCascader>
   </div>
 </template>
-
-<style scoped>
-
-</style>
