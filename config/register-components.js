@@ -21,6 +21,9 @@ import CheckboxDemo1 from "../docs/checkbox/CheckboxDemo1.vue"
 import CheckboxDemo2 from "../docs/checkbox/CheckboxDemo2.vue"
 import CollapseDemo1 from "../docs/collapse/CollapseDemo1.vue"
 import CollapseDemo2 from "../docs/collapse/CollapseDemo2.vue"
+import DatePickerDemo1 from "../docs/datePicker/DatePickerDemo1.vue"
+import DatePickerDemo2 from "../docs/datePicker/DatePickerDemo2.vue"
+import DatePickerDemo3 from "../docs/datePicker/DatePickerDemo3.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -46,4 +49,7 @@ export default function registerComponents(app){
   app.component('CheckboxDemo2',CheckboxDemo2)
   app.component('CollapseDemo1',CollapseDemo1)
   app.component('CollapseDemo2',CollapseDemo2)
+  app.component('DatePickerDemo1',DatePickerDemo1)
+  app.component('DatePickerDemo2',DatePickerDemo2)
+  app.component('DatePickerDemo3',DatePickerDemo3)
 }

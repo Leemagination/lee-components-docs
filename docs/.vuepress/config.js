@@ -22,7 +22,8 @@ export default defineUserConfig({
       '/card/',
       '/cascader/',
       '/checkbox/',
-      '/collapse/'
+      '/collapse/',
+      '/datePicker/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],
