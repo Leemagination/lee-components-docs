@@ -23,7 +23,8 @@ export default defineUserConfig({
       '/cascader/',
       '/checkbox/',
       '/collapse/',
-      '/datePicker/'
+      '/datePicker/',
+      '/divider/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],

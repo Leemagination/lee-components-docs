@@ -24,6 +24,10 @@ import CollapseDemo2 from "../docs/collapse/CollapseDemo2.vue"
 import DatePickerDemo1 from "../docs/datePicker/DatePickerDemo1.vue"
 import DatePickerDemo2 from "../docs/datePicker/DatePickerDemo2.vue"
 import DatePickerDemo3 from "../docs/datePicker/DatePickerDemo3.vue"
+import DividerDemo1 from "../docs/divider/DividerDemo1.vue"
+import DividerDemo2 from "../docs/divider/DividerDemo2.vue"
+import DividerDemo3 from "../docs/divider/DividerDemo3.vue"
+import DividerDemo4 from "../docs/divider/DividerDemo4.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -52,4 +56,8 @@ export default function registerComponents(app){
   app.component('DatePickerDemo1',DatePickerDemo1)
   app.component('DatePickerDemo2',DatePickerDemo2)
   app.component('DatePickerDemo3',DatePickerDemo3)
+  app.component('DividerDemo1',DividerDemo1)
+  app.component('DividerDemo2',DividerDemo2)
+  app.component('DividerDemo3',DividerDemo3)
+  app.component('DividerDemo4',DividerDemo4)
 }
