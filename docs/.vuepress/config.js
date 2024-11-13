@@ -24,7 +24,9 @@ export default defineUserConfig({
       '/checkbox/',
       '/collapse/',
       '/datePicker/',
-      '/divider/'
+      '/divider/',
+      '/drawer/',
+      '/dropdown/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],

@@ -45,4 +45,4 @@
 | text     | `string`         | 级联选项的显示文本 |
 | key      | `string\|number` | 级联选项的值    |
 | disabled | `boolean`        | 是否禁用选项    |
-| children | `OptionItem[]`   | 是否禁用选项    |
+| children | `OptionItem[]`   | 子级联选项     |
