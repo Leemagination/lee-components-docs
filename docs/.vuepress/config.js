@@ -26,7 +26,10 @@ export default defineUserConfig({
       '/datePicker/',
       '/divider/',
       '/drawer/',
-      '/dropdown/'
+      '/dropdown/',
+      '/input/',
+      '/inputNumber/',
+      '/list/',
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],

@@ -15,3 +15,8 @@ th {
 .theme-default-content a[href*="://"]:not(.no-external-link-icon)::after {
   display: none !important;
 }
+
+
+input {
+  padding-block: 0;
+}

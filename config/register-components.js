@@ -31,6 +31,12 @@ import DividerDemo4 from "../docs/divider/DividerDemo4.vue"
 import DrawerDemo1 from "../docs/drawer/DrawerDemo1.vue"
 import DrawerDemo2 from "../docs/drawer/DrawerDemo2.vue"
 import DropdownDemo1 from "../docs/dropdown/DropdownDemo1.vue"
+import InputDemo1 from "../docs/input/InputDemo1.vue"
+import InputDemo2 from "../docs/input/InputDemo2.vue"
+import InputDemo3 from "../docs/input/InputDemo3.vue"
+import InputNumberDemo1 from "../docs/inputNumber/InputNumberDemo1.vue"
+import ListDemo1 from "../docs/list/ListDemo1.vue"
+import ListDemo2 from "../docs/list/ListDemo2.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -66,4 +72,10 @@ export default function registerComponents(app){
   app.component('DrawerDemo1',DrawerDemo1)
   app.component('DrawerDemo2',DrawerDemo2)
   app.component('DropdownDemo1',DropdownDemo1)
+  app.component('InputDemo1',InputDemo1)
+  app.component('InputDemo2',InputDemo2)
+  app.component('InputDemo3',InputDemo3)
+  app.component('InputNumberDemo1',InputNumberDemo1)
+  app.component('ListDemo1',ListDemo1)
+  app.component('ListDemo2',ListDemo2)
 }
