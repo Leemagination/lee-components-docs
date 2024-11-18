@@ -30,6 +30,8 @@ export default defineUserConfig({
       '/input/',
       '/inputNumber/',
       '/list/',
+      '/loading/',
+      '/message/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],

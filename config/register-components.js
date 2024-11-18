@@ -37,6 +37,9 @@ import InputDemo3 from "../docs/input/InputDemo3.vue"
 import InputNumberDemo1 from "../docs/inputNumber/InputNumberDemo1.vue"
 import ListDemo1 from "../docs/list/ListDemo1.vue"
 import ListDemo2 from "../docs/list/ListDemo2.vue"
+import LoadingDemo1 from "../docs/loading/LoadingDemo1.vue"
+import MessageDemo1 from "../docs/message/MessageDemo1.vue"
+import MessageDemo2 from "../docs/message/MessageDemo2.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -78,4 +81,7 @@ export default function registerComponents(app){
   app.component('InputNumberDemo1',InputNumberDemo1)
   app.component('ListDemo1',ListDemo1)
   app.component('ListDemo2',ListDemo2)
+  app.component('LoadingDemo1',LoadingDemo1)
+  app.component('MessageDemo1',MessageDemo1)
+  app.component('MessageDemo2',MessageDemo2)
 }
