@@ -31,7 +31,9 @@ export default defineUserConfig({
       '/inputNumber/',
       '/list/',
       '/loading/',
-      '/message/'
+      '/message/',
+      '/modal/',
+      '/notification/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],

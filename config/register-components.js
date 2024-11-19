@@ -40,6 +40,10 @@ import ListDemo2 from "../docs/list/ListDemo2.vue"
 import LoadingDemo1 from "../docs/loading/LoadingDemo1.vue"
 import MessageDemo1 from "../docs/message/MessageDemo1.vue"
 import MessageDemo2 from "../docs/message/MessageDemo2.vue"
+import ModalDemo1 from "../docs/modal/ModalDemo1.vue"
+import ModalDemo2 from "../docs/modal/ModalDemo2.vue"
+import NotificationDemo1 from "../docs/notification/NotificationDemo1.vue"
+import NotificationDemo2 from "../docs/notification/NotificationDemo2.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -84,4 +88,8 @@ export default function registerComponents(app){
   app.component('LoadingDemo1',LoadingDemo1)
   app.component('MessageDemo1',MessageDemo1)
   app.component('MessageDemo2',MessageDemo2)
+  app.component('ModalDemo1',ModalDemo1)
+  app.component('ModalDemo2',ModalDemo2)
+  app.component('NotificationDemo1',NotificationDemo1)
+  app.component('NotificationDemo2',NotificationDemo2)
 }
