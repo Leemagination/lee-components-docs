@@ -44,6 +44,9 @@ import ModalDemo1 from "../docs/modal/ModalDemo1.vue"
 import ModalDemo2 from "../docs/modal/ModalDemo2.vue"
 import NotificationDemo1 from "../docs/notification/NotificationDemo1.vue"
 import NotificationDemo2 from "../docs/notification/NotificationDemo2.vue"
+import PaginationDemo1 from "../docs/pagination/PaginationDemo1.vue"
+import PaginationDemo2 from "../docs/pagination/PaginationDemo2.vue"
+import PaginationDemo3 from "../docs/pagination/PaginationDemo3.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -92,4 +95,7 @@ export default function registerComponents(app){
   app.component('ModalDemo2',ModalDemo2)
   app.component('NotificationDemo1',NotificationDemo1)
   app.component('NotificationDemo2',NotificationDemo2)
+  app.component('PaginationDemo1',PaginationDemo1)
+  app.component('PaginationDemo2',PaginationDemo2)
+  app.component('PaginationDemo3',PaginationDemo3)
 }

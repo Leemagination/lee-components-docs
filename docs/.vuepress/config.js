@@ -33,7 +33,8 @@ export default defineUserConfig({
       '/loading/',
       '/message/',
       '/modal/',
-      '/notification/'
+      '/notification/',
+      '/pagination/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],
