@@ -47,6 +47,8 @@ import NotificationDemo2 from "../docs/notification/NotificationDemo2.vue"
 import PaginationDemo1 from "../docs/pagination/PaginationDemo1.vue"
 import PaginationDemo2 from "../docs/pagination/PaginationDemo2.vue"
 import PaginationDemo3 from "../docs/pagination/PaginationDemo3.vue"
+import PopconfirmDemo1 from "../docs/popconfirm/PopconfirmDemo1.vue"
+import PopoverDemo1 from "../docs/popover/PopoverDemo1.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -98,4 +100,6 @@ export default function registerComponents(app){
   app.component('PaginationDemo1',PaginationDemo1)
   app.component('PaginationDemo2',PaginationDemo2)
   app.component('PaginationDemo3',PaginationDemo3)
+  app.component('PopconfirmDemo1',PopconfirmDemo1)
+  app.component('PopoverDemo1',PopoverDemo1)
 }

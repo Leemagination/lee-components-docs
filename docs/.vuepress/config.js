@@ -34,7 +34,9 @@ export default defineUserConfig({
       '/message/',
       '/modal/',
       '/notification/',
-      '/pagination/'
+      '/pagination/',
+      '/popconfirm/',
+      '/popover/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],
