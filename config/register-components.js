@@ -49,6 +49,10 @@ import PaginationDemo2 from "../docs/pagination/PaginationDemo2.vue"
 import PaginationDemo3 from "../docs/pagination/PaginationDemo3.vue"
 import PopconfirmDemo1 from "../docs/popconfirm/PopconfirmDemo1.vue"
 import PopoverDemo1 from "../docs/popover/PopoverDemo1.vue"
+import ProgressDemo1 from "../docs/progress/ProgressDemo1.vue"
+import ProgressDemo2 from "../docs/progress/ProgressDemo2.vue"
+import RadioDemo1 from "../docs/radio/RadioDemo1.vue"
+import RadioDemo2 from "../docs/radio/RadioDemo2.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -102,4 +106,8 @@ export default function registerComponents(app){
   app.component('PaginationDemo3',PaginationDemo3)
   app.component('PopconfirmDemo1',PopconfirmDemo1)
   app.component('PopoverDemo1',PopoverDemo1)
+  app.component('ProgressDemo1',ProgressDemo1)
+  app.component('ProgressDemo2',ProgressDemo2)
+  app.component('RadioDemo1',RadioDemo1)
+  app.component('RadioDemo2',RadioDemo2)
 }

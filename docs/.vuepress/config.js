@@ -36,7 +36,9 @@ export default defineUserConfig({
       '/notification/',
       '/pagination/',
       '/popconfirm/',
-      '/popover/'
+      '/popover/',
+      '/progress/',
+      '/radio/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],
