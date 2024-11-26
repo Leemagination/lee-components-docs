@@ -38,7 +38,8 @@ export default defineUserConfig({
       '/popconfirm/',
       '/popover/',
       '/progress/',
-      '/radio/'
+      '/radio/',
+      '/rate/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],

@@ -53,6 +53,8 @@ import ProgressDemo1 from "../docs/progress/ProgressDemo1.vue"
 import ProgressDemo2 from "../docs/progress/ProgressDemo2.vue"
 import RadioDemo1 from "../docs/radio/RadioDemo1.vue"
 import RadioDemo2 from "../docs/radio/RadioDemo2.vue"
+import RateDemo1 from "../docs/rate/RateDemo1.vue"
+import RateDemo2 from "../docs/rate/RateDemo2.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -110,4 +112,6 @@ export default function registerComponents(app){
   app.component('ProgressDemo2',ProgressDemo2)
   app.component('RadioDemo1',RadioDemo1)
   app.component('RadioDemo2',RadioDemo2)
+  app.component('RateDemo1',RateDemo1)
+  app.component('RateDemo2',RateDemo2)
 }
