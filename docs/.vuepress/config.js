@@ -39,7 +39,9 @@ export default defineUserConfig({
       '/popover/',
       '/progress/',
       '/radio/',
-      '/rate/'
+      '/rate/',
+      '/select/',
+      '/slider/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],

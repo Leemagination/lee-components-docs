@@ -55,6 +55,12 @@ import RadioDemo1 from "../docs/radio/RadioDemo1.vue"
 import RadioDemo2 from "../docs/radio/RadioDemo2.vue"
 import RateDemo1 from "../docs/rate/RateDemo1.vue"
 import RateDemo2 from "../docs/rate/RateDemo2.vue"
+import SelectDemo1 from "../docs/select/SelectDemo1.vue"
+import SelectDemo2 from "../docs/select/SelectDemo2.vue"
+import SelectDemo3 from "../docs/select/SelectDemo3.vue"
+import SliderDemo1 from "../docs/slider/SliderDemo1.vue"
+import SliderDemo2 from "../docs/slider/SliderDemo2.vue"
+import SliderDemo3 from "../docs/slider/SliderDemo3.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -114,4 +120,10 @@ export default function registerComponents(app){
   app.component('RadioDemo2',RadioDemo2)
   app.component('RateDemo1',RateDemo1)
   app.component('RateDemo2',RateDemo2)
+  app.component('SelectDemo1',SelectDemo1)
+  app.component('SelectDemo2',SelectDemo2)
+  app.component('SelectDemo3',SelectDemo3)
+  app.component('SliderDemo1',SliderDemo1)
+  app.component('SliderDemo2',SliderDemo2)
+  app.component('SliderDemo3',SliderDemo3)
 }
