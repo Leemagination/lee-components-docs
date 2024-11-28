@@ -61,6 +61,9 @@ import SelectDemo3 from "../docs/select/SelectDemo3.vue"
 import SliderDemo1 from "../docs/slider/SliderDemo1.vue"
 import SliderDemo2 from "../docs/slider/SliderDemo2.vue"
 import SliderDemo3 from "../docs/slider/SliderDemo3.vue"
+import StepsDemo1 from "../docs/steps/StepsDemo1.vue"
+import StepsDemo2 from "../docs/steps/StepsDemo2.vue"
+import StepsDemo3 from "../docs/steps/StepsDemo3.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -126,4 +129,7 @@ export default function registerComponents(app){
   app.component('SliderDemo1',SliderDemo1)
   app.component('SliderDemo2',SliderDemo2)
   app.component('SliderDemo3',SliderDemo3)
+  app.component('StepsDemo1',StepsDemo1)
+  app.component('StepsDemo2',StepsDemo2)
+  app.component('StepsDemo3',StepsDemo3)
 }

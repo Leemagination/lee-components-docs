@@ -41,7 +41,8 @@ export default defineUserConfig({
       '/radio/',
       '/rate/',
       '/select/',
-      '/slider/'
+      '/slider/',
+      '/steps/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],
