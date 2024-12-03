@@ -42,7 +42,9 @@ export default defineUserConfig({
       '/rate/',
       '/select/',
       '/slider/',
-      '/steps/'
+      '/steps/',
+      '/switch/',
+      '/tabs/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],

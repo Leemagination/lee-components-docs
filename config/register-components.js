@@ -64,6 +64,10 @@ import SliderDemo3 from "../docs/slider/SliderDemo3.vue"
 import StepsDemo1 from "../docs/steps/StepsDemo1.vue"
 import StepsDemo2 from "../docs/steps/StepsDemo2.vue"
 import StepsDemo3 from "../docs/steps/StepsDemo3.vue"
+import SwitchDemo1 from "../docs/switch/SwitchDemo1.vue"
+import TabsDemo1 from "../docs/tabs/TabsDemo1.vue"
+import TabsDemo2 from "../docs/tabs/TabsDemo2.vue"
+import TabsDemo3 from "../docs/tabs/TabsDemo3.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -132,4 +136,8 @@ export default function registerComponents(app){
   app.component('StepsDemo1',StepsDemo1)
   app.component('StepsDemo2',StepsDemo2)
   app.component('StepsDemo3',StepsDemo3)
+  app.component('SwitchDemo1',SwitchDemo1)
+  app.component('TabsDemo1',TabsDemo1)
+  app.component('TabsDemo2',TabsDemo2)
+  app.component('TabsDemo3',TabsDemo3)
 }
