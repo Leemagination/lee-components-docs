@@ -68,6 +68,11 @@ import SwitchDemo1 from "../docs/switch/SwitchDemo1.vue"
 import TabsDemo1 from "../docs/tabs/TabsDemo1.vue"
 import TabsDemo2 from "../docs/tabs/TabsDemo2.vue"
 import TabsDemo3 from "../docs/tabs/TabsDemo3.vue"
+import TagDemo1 from "../docs/tag/TagDemo1.vue"
+import TagDemo2 from "../docs/tag/TagDemo2.vue"
+import TimelineDemo1 from "../docs/timeline/TimelineDemo1.vue"
+import TimelineDemo2 from "../docs/timeline/TimelineDemo2.vue"
+import TimelineDemo3 from "../docs/timeline/TimelineDemo3.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -140,4 +145,9 @@ export default function registerComponents(app){
   app.component('TabsDemo1',TabsDemo1)
   app.component('TabsDemo2',TabsDemo2)
   app.component('TabsDemo3',TabsDemo3)
+  app.component('TagDemo1',TagDemo1)
+  app.component('TagDemo2',TagDemo2)
+  app.component('TimelineDemo1',TimelineDemo1)
+  app.component('TimelineDemo2',TimelineDemo2)
+  app.component('TimelineDemo3',TimelineDemo3)
 }

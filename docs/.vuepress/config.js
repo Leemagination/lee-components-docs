@@ -44,7 +44,9 @@ export default defineUserConfig({
       '/slider/',
       '/steps/',
       '/switch/',
-      '/tabs/'
+      '/tabs/',
+      '/tag/',
+      '/timeline/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],
