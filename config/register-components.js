@@ -73,6 +73,12 @@ import TagDemo2 from "../docs/tag/TagDemo2.vue"
 import TimelineDemo1 from "../docs/timeline/TimelineDemo1.vue"
 import TimelineDemo2 from "../docs/timeline/TimelineDemo2.vue"
 import TimelineDemo3 from "../docs/timeline/TimelineDemo3.vue"
+import TimePickerDemo1 from "../docs/timePicker/TimePickerDemo1.vue"
+import TimePickerDemo2 from "../docs/timePicker/TimePickerDemo2.vue"
+import TooltipDemo1 from "../docs/tooltip/TooltipDemo1.vue"
+import TreeDemo1 from "../docs/tree/TreeDemo1.vue"
+import TreeDemo2 from "../docs/tree/TreeDemo2.vue"
+import TreeDemo3 from "../docs/tree/TreeDemo3.vue"
 
 export default function registerComponents(app){
   app.component('AlertDemo1',AlertDemo1)
@@ -150,4 +156,10 @@ export default function registerComponents(app){
   app.component('TimelineDemo1',TimelineDemo1)
   app.component('TimelineDemo2',TimelineDemo2)
   app.component('TimelineDemo3',TimelineDemo3)
+  app.component('TimePickerDemo1',TimePickerDemo1)
+  app.component('TimePickerDemo2',TimePickerDemo2)
+  app.component('TooltipDemo1',TooltipDemo1)
+  app.component('TreeDemo1',TreeDemo1)
+  app.component('TreeDemo2',TreeDemo2)
+  app.component('TreeDemo3',TreeDemo3)
 }

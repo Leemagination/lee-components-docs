@@ -22,6 +22,6 @@
     "node": ">=18.20.5"
   },
   "dependencies": {
-    "lee-vue3-components": "0.1.0-beta.20"
+    "lee-vue3-components": "0.1.0-beta.24"
   }
 }

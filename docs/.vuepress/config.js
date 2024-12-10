@@ -46,7 +46,10 @@ export default defineUserConfig({
       '/switch/',
       '/tabs/',
       '/tag/',
-      '/timeline/'
+      '/timeline/',
+      '/timePicker/',
+      '/tooltip/',
+      '/tree/'
     ],
     sidebarDepth: 0,
     //navbar: ['/', '/button/'],
