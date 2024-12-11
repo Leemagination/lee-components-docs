@@ -17,7 +17,7 @@ const value2 = ref(2)
 
 
     <div>选项组禁用</div>
-    <LeeRadioGroup v-model:value="value2" name="myRadio3" disabled>
+    <LeeRadioGroup v-model:value="value2" name="myRadio4" disabled>
       <LeeRadio :value="1">香蕉</LeeRadio>
       <LeeRadio :value="2">苹果</LeeRadio>
       <LeeRadio :value="3">香蕉</LeeRadio>
