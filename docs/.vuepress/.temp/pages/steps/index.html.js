@@ -1,0 +1,3 @@
+import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/steps/index.html.vue"
+const data = JSON.parse("{\"path\":\"/steps/\",\"title\":\"步骤 Steps\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"垂直方向\",\"slug\":\"垂直方向\",\"link\":\"#垂直方向\",\"children\":[]},{\"level\":3,\"title\":\"水平方向\",\"slug\":\"水平方向\",\"link\":\"#水平方向\",\"children\":[]},{\"level\":3,\"title\":\"其他配置\",\"slug\":\"其他配置\",\"link\":\"#其他配置\",\"children\":[]}],\"git\":{\"updatedTime\":1732808637000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":1}]},\"filePathRelative\":\"steps/index.md\"}")
+export { comp, data }

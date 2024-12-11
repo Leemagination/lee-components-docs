@@ -1,0 +1,3 @@
+import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/collapse/index.html.vue"
+const data = JSON.parse("{\"path\":\"/collapse/\",\"title\":\"折叠面板  Collapse\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"基础\",\"slug\":\"基础\",\"link\":\"#基础\",\"children\":[]},{\"level\":3,\"title\":\"手风琴模式\",\"slug\":\"手风琴模式\",\"link\":\"#手风琴模式\",\"children\":[]}],\"git\":{\"updatedTime\":1730821635000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":1}]},\"filePathRelative\":\"collapse/index.md\"}")
+export { comp, data }

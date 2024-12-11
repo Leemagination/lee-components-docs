@@ -1,0 +1,3 @@
+import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/button/index.html.vue"
+const data = JSON.parse("{\"path\":\"/button/\",\"title\":\"按钮 Button\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"基础\",\"slug\":\"基础\",\"link\":\"#基础\",\"children\":[]},{\"level\":3,\"title\":\"按钮的其他状态\",\"slug\":\"按钮的其他状态\",\"link\":\"#按钮的其他状态\",\"children\":[]},{\"level\":3,\"title\":\"按钮点击事件\",\"slug\":\"按钮点击事件\",\"link\":\"#按钮点击事件\",\"children\":[]},{\"level\":3,\"title\":\"按钮组\",\"slug\":\"按钮组\",\"link\":\"#按钮组\",\"children\":[]}],\"git\":{\"updatedTime\":1730133877000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":3}]},\"filePathRelative\":\"button/index.md\"}")
+export { comp, data }

@@ -1,0 +1,3 @@
+import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/slider/index.html.vue"
+const data = JSON.parse("{\"path\":\"/slider/\",\"title\":\"滑动选择 Slider\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"基础\",\"slug\":\"基础\",\"link\":\"#基础\",\"children\":[]},{\"level\":3,\"title\":\"范围滑动\",\"slug\":\"范围滑动\",\"link\":\"#范围滑动\",\"children\":[]},{\"level\":3,\"title\":\"其他配置\",\"slug\":\"其他配置\",\"link\":\"#其他配置\",\"children\":[]}],\"git\":{\"updatedTime\":1732722314000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":1}]},\"filePathRelative\":\"slider/index.md\"}")
+export { comp, data }
