@@ -1,3 +1,0 @@
-import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/breadcrumb/index.html.vue"
-const data = JSON.parse("{\"path\":\"/breadcrumb/\",\"title\":\"面包屑 Breadcrumb\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"基础\",\"slug\":\"基础\",\"link\":\"#基础\",\"children\":[]},{\"level\":3,\"title\":\"href跳转\",\"slug\":\"href跳转\",\"link\":\"#href跳转\",\"children\":[]},{\"level\":3,\"title\":\"自定义分隔符\",\"slug\":\"自定义分隔符\",\"link\":\"#自定义分隔符\",\"children\":[]}],\"git\":{\"updatedTime\":1730300662000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":1}]},\"filePathRelative\":\"breadcrumb/index.md\"}")
-export { comp, data }

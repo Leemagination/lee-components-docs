@@ -1,3 +1,0 @@
-import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/pagination/index.html.vue"
-const data = JSON.parse("{\"path\":\"/pagination/\",\"title\":\"分页器 Pagination\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"基础\",\"slug\":\"基础\",\"link\":\"#基础\",\"children\":[]},{\"level\":3,\"title\":\"其他配置\",\"slug\":\"其他配置\",\"link\":\"#其他配置\",\"children\":[]},{\"level\":3,\"title\":\"页码展示个数\",\"slug\":\"页码展示个数\",\"link\":\"#页码展示个数\",\"children\":[]}],\"git\":{\"updatedTime\":1732116532000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":1}]},\"filePathRelative\":\"pagination/index.md\"}")
-export { comp, data }

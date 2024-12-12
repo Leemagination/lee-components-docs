@@ -1,3 +1,0 @@
-import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/popover/index.html.vue"
-const data = JSON.parse("{\"path\":\"/popover/\",\"title\":\"弹出信息 Popover\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"Popover Slots\",\"slug\":\"popover-slots\",\"link\":\"#popover-slots\",\"children\":[]},{\"level\":3,\"title\":\"PlacementType类型\",\"slug\":\"placementtype类型\",\"link\":\"#placementtype类型\",\"children\":[]}],\"git\":{\"updatedTime\":1732203265000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":1}]},\"filePathRelative\":\"popover/index.md\"}")
-export { comp, data }

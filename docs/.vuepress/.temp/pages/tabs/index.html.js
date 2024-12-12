@@ -1,3 +1,0 @@
-import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/tabs/index.html.vue"
-const data = JSON.parse("{\"path\":\"/tabs/\",\"title\":\"标签页 Tabs\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"基础\",\"slug\":\"基础\",\"link\":\"#基础\",\"children\":[]},{\"level\":3,\"title\":\"无动画\",\"slug\":\"无动画\",\"link\":\"#无动画\",\"children\":[]},{\"level\":3,\"title\":\"显示方式\",\"slug\":\"显示方式\",\"link\":\"#显示方式\",\"children\":[]}],\"git\":{\"updatedTime\":1733239081000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":1}]},\"filePathRelative\":\"tabs/index.md\"}")
-export { comp, data }

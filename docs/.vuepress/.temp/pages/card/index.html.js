@@ -1,3 +1,0 @@
-import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/card/index.html.vue"
-const data = JSON.parse("{\"path\":\"/card/\",\"title\":\"卡片  Card\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"基础\",\"slug\":\"基础\",\"link\":\"#基础\",\"children\":[]},{\"level\":3,\"title\":\"插槽\",\"slug\":\"插槽\",\"link\":\"#插槽\",\"children\":[]},{\"level\":3,\"title\":\"可配置的一些样式\",\"slug\":\"可配置的一些样式\",\"link\":\"#可配置的一些样式\",\"children\":[]}],\"git\":{\"updatedTime\":1730739830000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":1}]},\"filePathRelative\":\"card/index.md\"}")
-export { comp, data }

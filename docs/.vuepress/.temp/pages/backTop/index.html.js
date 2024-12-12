@@ -1,3 +1,0 @@
-import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/backTop/index.html.vue"
-const data = JSON.parse("{\"path\":\"/backTop/\",\"title\":\"回到顶部 BackTop\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"基础\",\"slug\":\"基础\",\"link\":\"#基础\",\"children\":[]},{\"level\":3,\"title\":\"一些配置项\",\"slug\":\"一些配置项\",\"link\":\"#一些配置项\",\"children\":[]},{\"level\":3,\"title\":\"指定滚动目标\",\"slug\":\"指定滚动目标\",\"link\":\"#指定滚动目标\",\"children\":[]}],\"git\":{\"updatedTime\":1730216996000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":1}]},\"filePathRelative\":\"backTop/index.md\"}")
-export { comp, data }

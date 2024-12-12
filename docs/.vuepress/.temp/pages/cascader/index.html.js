@@ -1,3 +1,0 @@
-import comp from "F:/myCode/lee-components-docs/docs/.vuepress/.temp/pages/cascader/index.html.vue"
-const data = JSON.parse("{\"path\":\"/cascader/\",\"title\":\"级联选择 Cascader\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"基础\",\"slug\":\"基础\",\"link\":\"#基础\",\"children\":[]},{\"level\":3,\"title\":\"可配置化样式\",\"slug\":\"可配置化样式\",\"link\":\"#可配置化样式\",\"children\":[]}],\"git\":{\"updatedTime\":1731511636000,\"contributors\":[{\"name\":\"Leemagination\",\"email\":\"328445543@qq.com\",\"commits\":2}]},\"filePathRelative\":\"cascader/index.md\"}")
-export { comp, data }
