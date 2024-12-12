@@ -3,9 +3,11 @@ import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { prismjsPlugin } from '@vuepress/plugin-prismjs'
 
+console.log()
 export default defineUserConfig({
   lang: 'en-US',
   title: '一个用于学习的vue3组件库',
+  base: `/${process.env.buildBase}/`,
   description: '',
   theme: defaultTheme({
     editLink: false,
@@ -33,7 +35,6 @@ export default defineUserConfig({
           '/progress/',
           '/radio/',
           '/rate/',
-          '/slider/',
           '/steps/',
           '/switch/',
           '/tag/',
@@ -70,6 +71,7 @@ export default defineUserConfig({
         children: [
           '/input/',
           '/inputNumber/',
+          '/slider/',
           '/pagination/',
           '/calender/',
           '/tabs/',
