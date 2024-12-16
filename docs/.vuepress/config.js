@@ -3,11 +3,10 @@ import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { prismjsPlugin } from '@vuepress/plugin-prismjs'
 
-console.log()
 export default defineUserConfig({
   lang: 'en-US',
   title: '一个用于学习的vue3组件库',
-  base: `/${process.env.buildBase}/`,
+  base: '',
   description: '',
   theme: defaultTheme({
     editLink: false,

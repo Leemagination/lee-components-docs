@@ -5,8 +5,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "docs:build-ghpages": "npm run create-config && node script/build.js lee-components-docs",
-    "docs:build-myserver": "npm run create-config && node script/build.js docs",
+    "docs:build": "npm run create-config && vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
     "docs:dev": "npm run create-config && vuepress dev docs",
     "docs:update-package": "npx vp-update",
